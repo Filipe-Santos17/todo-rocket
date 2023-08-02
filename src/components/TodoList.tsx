@@ -42,7 +42,6 @@ export default function TodoList({ todoValues, setTodosValue }: todoListType) {
         }
       })
     })
-    //Criar um ReadMe(em inglês e português)
   }
 
   return (
